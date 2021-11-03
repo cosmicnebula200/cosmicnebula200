@@ -1,7 +1,7 @@
 ### Hi there 👋
 # My Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=cosmicnebula200&show_icons=true&count_private=false&hide_title=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=cosmicnebula200&show_icons=true&count_private=true&hide_title=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicnebula200&layout=compact)
 
 - 🔭 I’m currently working on My own server...
