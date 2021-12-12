@@ -4,9 +4,10 @@
 - 👯 I’m looking to collaborate on making some PM Plugins/Discord Bots...
 - 📫 How to reach me: Join https://discord.elementalsmcpe.tk as i love to change my name 😄...
 - ⚡ Fun fact: I might be under your bed or with AGTHARN on mars or chilling on my fav servers and you clicked my profile :D...
+
 <p align="center">
-![My Stats](https://github-readme-stats.vercel.app/api?username=cosmicnebula200&show_icons=true&count_private=true&hide_title=false&theme=tokyonight) 
+<img src="https://github-readme-stats.vercel.app/api?username=cosmicnebula200&show_icons=true&count_private=true&hide_title=false&theme=tokyonight"></img>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicnebula200&count_private=true&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicnebula200&count_private=true&layout=compact&theme=tokyonight"></img>
 </p>
