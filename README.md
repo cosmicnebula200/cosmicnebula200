@@ -6,8 +6,8 @@
 - ⚡ Fun fact: I might be under your bed or with AGTHARN on mars or chilling on my fav servers and you clicked my profile :D...
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cosmicnebula200&show_icons=true&count_private=true&hide_title=false&theme=tokyonight"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=cosmicnebula200&show_icons=true&count_private=true&hide_title=false&theme=tokyonight"></p>
 
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicnebula200&count_private=true&layout=compact&theme=tokyonight"></img>
 </p>
