@@ -11,8 +11,13 @@
 - ⚡ Fun fact: I might be under your bed or with AGTHARN on mars or chilling on my fav servers and you clicked my profile :D...
 
 ![halloffame](https://media.discordapp.net/attachments/489366022172966922/919560351329185822/png_20211212_200418_0000.png)
-![quote](https://media.discordapp.net/attachments/489366022172966922/919562138270461962/png_20211212_201125_0000.png?height=50&width=50)
+<img src='https://media.discordapp.net/attachments/489366022172966922/919562138270461962/png_20211212_201125_0000.png?height=50&width=50'>
 <div></div>
 <p align="center">
 <img src='https://media.discordapp.net/attachments/904927214926192713/919605672339980308/unknown.png'>
+</p>
+<img src='https://media.discordapp.net/attachments/489366022172966922/919562138270461962/png_20211212_201125_0000.png?height=50&width=50'>
+<div></div>
+<p align="center">
+<img src='https://media.discordapp.net/attachments/829673511009779723/925394775811698739/unknown.png'>
 </p>
