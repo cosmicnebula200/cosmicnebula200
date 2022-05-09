@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Am+PogChamper+Cosmic;Never+Gonna+Give+You+Up;Never+Gonna+Let+You+Down;Never+Gonna+Run+Around+And+Desert+You"></a>
+</p>
+
 - 🔭 I’m currently working on My own server...
 - 🥳 Working on [FunBlockOneBlock](https://github.com/cosmicnebula200/FunBlockOneBlock), [FunBlockLuckyBlock](https://github.com/cosmicnebula200/FunBlockLuckyBlock) and some other stuff with friends <3.
 - 🌱 I’m currently learning PHP and Python...
@@ -10,6 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=cosmicnebula200&show_icons=true&count_private=true&hide_title=false&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicnebula200&count_private=true&layout=compact&theme=tokyonight">
 </p>
+
 
 
 ![halloffame](https://media.discordapp.net/attachments/489366022172966922/919560351329185822/png_20211212_200418_0000.png)
