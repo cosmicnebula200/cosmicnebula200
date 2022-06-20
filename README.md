@@ -9,7 +9,7 @@
 - 📫 How to reach me: Join https://discord.elementalsmcpe.tk as i love to change my name 😄...
 - ⚡ Fun fact: I might be under your bed or with AGTHARN on mars or chilling on my fav servers and you clicked my profile :D...
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cosmicnebula200&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cosmicnebula200)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cosmicnebula200&show_icons=true&count_private=true&hide_title=false&theme=tokyonight">
