@@ -7,7 +7,12 @@
 - 👯 I’m looking to collaborate on making some PM Plugins/Discord Bots...
 - ⚡ Fun fact: My professional github is [aasrith-jr](https://github.com/aasrith-jr). I just do freelance and open source projects here.
 
+- Freelance/Opensource profile
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/cosmicnebula200?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
 </p>
 
+- Professional profile
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/aasrith-jr?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
+</p>
